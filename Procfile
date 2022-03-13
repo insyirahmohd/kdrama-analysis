@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run myfirstapp.py
+web: sh setup.sh && streamlit run Top100Kdrama.py
